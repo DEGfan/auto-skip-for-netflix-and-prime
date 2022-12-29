@@ -141,7 +141,7 @@ export const i18nMap = {
     skip_recap: "요약 건너뛰기",
   },
   ja_JP: {
-    skip_intro: "紹介をスキップ",
+    skip_intro: "イントロをスキップ",
     next_epi: "次のエピソード",
     skip_recap: "要約をスキップ",
     skip_ads: "広告をスキップ",
